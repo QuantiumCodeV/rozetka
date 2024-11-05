@@ -209,5 +209,11 @@
 	</script>
 
 </body>
+<style>
+
+	td {
+		color: black;
+	}
+</style>
 
 </html>
